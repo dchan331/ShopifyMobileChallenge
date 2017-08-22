@@ -100,7 +100,6 @@ const styles = StyleSheet.create({
   },
   dropdown:{
     top: 70,
-    textAlign: 'left',
   },
   text:{
     fontSize: 15
